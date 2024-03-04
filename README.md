@@ -5,6 +5,7 @@ Student of Systems and Computer Engineering
 -------------------------------------------
 
 I'm currently learning and delving deeper into the world of programming. I study at the Technological University of Panama and I'm also taking courses in the Oracle Next Education program by Alura. ‎
+˙ᵕ˙
 
 * 🌍  I'm based in Panama
 * 🧠  I'm learning JavaScript, HTML, CSS.
