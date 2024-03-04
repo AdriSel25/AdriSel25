@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of Systems and Computer Engineering
 -------------------------------------------
 
-I'm currently learning and delving deeper into the world of programming. I study at the Technological University of Panama and I'm also taking courses in the Oracle Next Education program by Alura. ‎‎‎ ‎ ‎╱|、 (˚ˎ 。7 |、˜〵 じしˍ,)ノ
+I'm currently learning and delving deeper into the world of programming. I study at the Technological University of Panama and I'm also taking courses in the Oracle Next Education program by Alura. ‎
 
 * 🌍  I'm based in Panama
 * 🧠  I'm learning JavaScript, HTML, CSS.
